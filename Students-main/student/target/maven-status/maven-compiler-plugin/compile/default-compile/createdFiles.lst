@@ -1,0 +1,6 @@
+com\rasha\STUDENT\StudentApplication.class
+com\rasha\STUDENT\StudentController.class
+com\rasha\STUDENT\StudentRepository.class
+com\rasha\STUDENT\Student.class
+com\rasha\STUDENT\StudentService.class
+com\rasha\STUDENT\StudentServiseImpl.class
